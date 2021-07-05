@@ -1,4 +1,4 @@
-# <u>Recriando página do Instragram</u> 
+# <u>Recriando página do Instagram</u> 
 
 Neste projeto da Digital Inovation One do curso de WEB Developer, o desafio foi reconstruir a pagina inicial do Instragram, abordando o conceito de CSS utilizando Flexbox.
 
